@@ -51,7 +51,7 @@
         "url": "https://raw.githubusercontent.com/Daniel23366/dataset/main/employment.csv"
       },
       "mark": {"type": "line", "tooltip": true, "point": true},
-      "title": "Employment rate of Australia",
+      "title": "Employment rate of Australia, China and USA",
       "encoding": {
         "x": {"field": "yy", "type": "temporal", "title": "years"},
         "y": {
